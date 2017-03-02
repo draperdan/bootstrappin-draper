@@ -9,10 +9,10 @@ gem 'bootstrap-sass'
 gem 'jquery-easing-rails'
 gem 'font-awesome-sass'
 gem 'trix'
+gem 'seed_dump'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.1'
-
 
 
 # Use Puma as the app server
